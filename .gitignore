@@ -1,0 +1,23 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.db
+*.db-journal
+.env
+.env.local
+
+# Node
+agent-ui/node_modules/
+agent-ui/.next/
+agent-ui/.env.local
+
+# OS
+.DS_Store
+
+# Railway
+.railway/
+
+# Claude Code
+.claude/
